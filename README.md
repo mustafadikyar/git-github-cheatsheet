@@ -257,3 +257,9 @@ $ git merge new-branch-name
 ```
 
 işlemleri sonrasında değişikliklerimizi github'a gönderdiğimiz(push) zaman master branch'ında var olmayan sadece new-branch-name isimli branch'ta bulunan dosyaların da master'a eklendiğini göreceksiniz.
+
+- Local'e dosyaları çekmek.
+
+```console
+$ git pull
+```
